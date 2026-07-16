@@ -1,0 +1,92 @@
+[
+  {
+    "scenario": "Valid Username and Valid Password",
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  {
+    "scenario": "Invalid Username and Valid Password",
+    "username": "invalidUser",
+    "password": "secret_sauce"
+  },
+  {
+    "scenario": "Valid Username and Invalid Password",
+    "username": "standard_user",
+    "password": "wrongPassword"
+  },
+  {
+    "scenario": "Invalid Username and Invalid Password",
+    "username": "invalidUser",
+    "password": "wrongPassword"
+  },
+  {
+    "scenario": "Blank Username",
+    "username": "",
+    "password": "secret_sauce"
+  },
+  {
+    "scenario": "Blank Password",
+    "username": "standard_user",
+    "password": ""
+  },
+  {
+    "scenario": "Blank Username and Blank Password",
+    "username": "",
+    "password": ""
+  },
+  {
+    "scenario": "Username Contains Only Spaces",
+    "username": " ",
+    "password": "secret_sauce"
+  },
+  {
+    "scenario": "Password Contains Only Spaces",
+    "username": "standard_user",
+    "password": " "
+  },
+  {
+    "scenario": "Username and Password Contain Only Spaces",
+    "username": " ",
+    "password": " "
+  },
+  {
+    "scenario": "Username Case Sensitivity Check",
+    "username": "STANDARD_USER",
+    "password": "secret_sauce"
+  },
+  {
+    "scenario": "Password Case Sensitivity Check",
+    "username": "standard_user",
+    "password": "SECRET_SAUCE"
+  },
+  {
+    "scenario": "Leading and Trailing Spaces",
+    "username": " standard_user ",
+    "password": " secret_sauce "
+  },
+  {
+    "scenario": "Special Characters in Username and Password",
+    "username": "test@123",
+    "password": "pass@123"
+  },
+  {
+    "scenario": "SQL Injection Attempt",
+    "username": "admin' OR '1'='1",
+    "password": "password"
+  },
+  {
+    "scenario": "XSS Injection Attempt",
+    "username": "<script>alert('test')</script>",
+    "password": "password"
+  },
+  {
+    "scenario": "Very Long Username",
+    "username": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "password": "secret_sauce"
+  },
+  {
+    "scenario": "Very Long Password",
+    "username": "standard_user",
+    "password": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+  }
+]

@@ -1,0 +1,528 @@
+{
+  "cookies": [
+    {
+      "name": "deviceId",
+      "value": "880b5c90-8968-41dc-9873-343a9dfb6b06",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1817989263.369545,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "abExperimentData",
+      "value": "%7B%22variants%22%3A%7B%7D%2C%22experimentIds%22%3A%22%22%2C%22variantIds%22%3A%22%22%2C%22device_id%22%3Anull%7D",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1783429863.369782,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CLID",
+      "value": "0fefb13ee95f4e6db14851fb92836189.20260707.20270707",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1814965263.424967,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1910828362.1783429264",
+      "domain": ".mamaearth.in",
+      "path": "/",
+      "expires": 1791205264,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.2.1027993462.1783429264",
+      "domain": ".mamaearth.in",
+      "path": "/",
+      "expires": 1817989292.710888,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gid",
+      "value": "GA1.2.1368158850.1783429264",
+      "domain": ".mamaearth.in",
+      "path": "/",
+      "expires": 1783515692,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dc_gtm_UA-119604577-1",
+      "value": "1",
+      "domain": ".mamaearth.in",
+      "path": "/",
+      "expires": 1783429324,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1783429264592.65089561930393683",
+      "domain": ".mamaearth.in",
+      "path": "/",
+      "expires": 1791205293,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__tr_luptv",
+      "value": "1783429265112",
+      "domain": ".mamaearth.in",
+      "path": "/",
+      "expires": 1814965265,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clck",
+      "value": "1of5h0b%5E2%5Eg7j%5E0%5E2379",
+      "domain": ".mamaearth.in",
+      "path": "/",
+      "expires": 1814965265,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clsk",
+      "value": "15ablo8%5E1783429266107%5E1%5E1%5Ei.clarity.ms%2Fcollect",
+      "domain": ".mamaearth.in",
+      "path": "/",
+      "expires": 1783515666,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUmufKh7ltIzdc5TJa8s3GvnVFr2-UpslPGh424GeVxXS-B_k4Lk1Txrt-04b90",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1817989266.48513,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SM",
+      "value": "T",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "3CBF6DB91C3F62013BD27A36183F6C0A",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1817125267.149489,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "moe_uuid",
+      "value": "e7884f38-0dcf-4450-8a63-2a9d9e0bc71b",
+      "domain": ".mamaearth.in",
+      "path": "/",
+      "expires": 1817989293.1455,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__Host-go_sid",
+      "value": "704e27c2-98ff-4bbf-ae6d-dbe0a749b5a7",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1783431067,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "FP_CONTROLS_DATA",
+      "value": "{\"fpFlowAllowd\":false,\"vIdGeneration\":{\"enabled\":false,\"limitReached\":true},\"apiConfigurations\":{},\"generator\":\"\"}",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1783429567,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KP_MERCHANT_CONFIG",
+      "value": "{\"id\":6734,\"merchantId\":\"12wyqc26spoknx0kv7t\",\"name\":\"Mamaearth\",\"host\":\"mamaearth.in\",\"platform\":\"custom\",\"kwikpassEnabled\":true,\"isWhatsappOtpLessActive\":false,\"isTruecallerActive\":true,\"integrationType\":\"CUSTOM_HEADLESS\",\"isLogoutBtnDisabled\":false,\"popupBreakpoint\":\"1240px\",\"isPublicAppInstalled\":false,\"customerIntelligenceEnabled\":false,\"customerIntelligenceMetrics\":null,\"marketingPopupGlobalLimit\":\"1\",\"customerAccountsVersion\":\"classic\",\"kpAppName\":null,\"isCustomAccountPageEnabled\":false,\"accountPageConfigs\":{\"vendor\":\"\",\"enabled\":false,\"redirect_url\":\"\"},\"kpFeatures\":[],\"consentState\":\"opt_out\",\"isDPDPCompliancePopup\":false,\"isCustomizePopupHandled\":true,\"isMultiplePlatform\":false,\"isS2sEventEnabled\":true,\"thirdPartyServiceProviders\":[{\"name\":\"product_recommendations\",\"type\":\"post-purchase-action\",\"category\":\"Account Page Extension\",\"identifier\":null,\"events\":[\"[]\"],\"marketingEvents\":[],\"rules\":null}],\"merchantIntegrationType\":{\"host\":\"mamaearth.in\",\"platform\":\"custom\",\"integrationType\":\"CUSTOM_HEADLESS\"},\"kpRequestId\":\"940fd034-1653-435d-ae94-d44436af4fc1\"}",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1783429567,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ka_c_ce",
+      "value": "%5B%5D",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1783430467,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ka_c_kp_ce",
+      "value": "%5B%5D",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1783430467,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ka_c",
+      "value": "%7B%22isConfigured%22%3Afalse%2C%22standardEvents%22%3A%5B%5D%2C%22enableAppEvents%22%3Afalse%7D",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1783430467,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sp_ses.1a5c",
+      "value": "*",
+      "domain": ".mamaearth.in",
+      "path": "/",
+      "expires": 1783431092,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Host-go_sid",
+      "value": "bb6bb694-01d3-4fa8-bbba-faa590b50959",
+      "domain": "pdp.gokwik.co",
+      "path": "/",
+      "expires": 1783431068,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kp_user_id",
+      "value": "019f3cab-0365-746b-9f32-a309c9655496",
+      "domain": "pdp.gokwik.co",
+      "path": "/",
+      "expires": 1814965268,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "usr_trck",
+      "value": "[{\"id\":\"019f3cab-0365-746b-9f32-a309c9655496\",\"updatedAt\":1783429268327,\"kp_count\":1}]",
+      "domain": ".pdp.gokwik.co",
+      "path": "/",
+      "expires": 1814965268,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kp_user_id",
+      "value": "019f3cab-0365-746b-9f32-a309c9655496",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1814965268,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sp",
+      "value": "85ffb270-6b7e-4ac7-b9da-bd3f665d29fb",
+      "domain": "sp-kf-collector-prod.gokwik.io",
+      "path": "/",
+      "expires": 1814965292.078878,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "GTM_SESSION",
+      "value": "4",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1783431083,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gk-request-id",
+      "value": "6b7b845d-9b89-40a4-be39-ebb64b46b2cd",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1814965283,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KWIKSESSIONTOKEN",
+      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..Glqh2QzVPBUyCO4T.zRXL2CLB69VRn72fIHaUI09UDLl0CjjRYqqJuZ2m6jUFYLAf1QgdTdd2GSzDxE4XpWgLvsWOTd0fbASy1P_EfUVXl9DmR2NzVZwCKjonnLn5pHTKiBwpWwdRYdufDAEykMs.RMDcoFwtNdKZUNvvRpDg9A",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1814965292,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ELRTOKEN",
+      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..nttFis3N8AJG3z7P.Kb06Oelqw9_rh3gR9vLFuLJkbVljiVKzFwksdHAmBY00rc3p8eFL_3LnhKZcmD67MJUtfuowZNYRiFOrMoHIqK1mHCxlZ9ZQpK3uHyofJ8i39qgLR1iTdLtQtBT_WaEdw4PFEP_ZPzkO3slqKGQ-g4bLxTLpOYnTt1DpCJLOyXOe1lyPPrvzZ09MAgzuwE3dLPzMtWdIpeujVIryO049FGy4YarB33otYtK-cVaDpmx3vtHn4KL141rccY_gZBF7vw97pOm54og9KuFSx8zms30PcJC6Sb7OTw.FFSjQqPFHvLpYOA8gobkJQ",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1814965292,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KWIKUSERTOKEN",
+      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..siji95D35vl8uHIF.DmJSIAxjN1L_r9BI3JE8h8h9KgSjwHIHdzdrrKnwbgZ6w1HxQf-Ztx8L-pLltqROPZDgO5S3_Ighp-Gez5YHdn0nBGyVgdaYyPAhykJVln0JgbX2CO2G1UFVlxa1wNEP6IsDM8QgyNRtZ6usy3B0yrf-WHN4punocZdfzEoxHO04IpUL4CAD5ptjoAE9FJkiDngNCLV4y5yCPfQFaFGzN2zdd1HzNIZL0klRtwNILilWMPa545KNkQ6bjKkOMjtZ8XZfv6rPC7MlOe3Bb764Wz9dUxvYW1-D.7326_1JP14wr99V7P57hcg",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1814965292,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "notifyph",
+      "value": "KzkxfDg3ODg4MTUzMzQ=",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1814965292,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "gk_login_source",
+      "value": "kwik_pass",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1814965292,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sp_id.1a5c",
+      "value": "c2600104-6876-498d-b4a1-1ec68cfd8bab.1783429268.1.1783429292..d9d07ee8-2661-4c48-b44c-bc95d1413fdd..42591656-4c01-4a9e-8440-8cbcea4bfab6.1783429268329.4",
+      "domain": ".mamaearth.in",
+      "path": "/",
+      "expires": 1817989292.046463,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ELRTOKEN",
+      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..nttFis3N8AJG3z7P.Kb06Oelqw9_rh3gR9vLFuLJkbVljiVKzFwksdHAmBY00rc3p8eFL_3LnhKZcmD67MJUtfuowZNYRiFOrMoHIqK1mHCxlZ9ZQpK3uHyofJ8i39qgLR1iTdLtQtBT_WaEdw4PFEP_ZPzkO3slqKGQ-g4bLxTLpOYnTt1DpCJLOyXOe1lyPPrvzZ09MAgzuwE3dLPzMtWdIpeujVIryO049FGy4YarB33otYtK-cVaDpmx3vtHn4KL141rccY_gZBF7vw97pOm54og9KuFSx8zms30PcJC6Sb7OTw.FFSjQqPFHvLpYOA8gobkJQ",
+      "domain": ".pdp.gokwik.co",
+      "path": "/",
+      "expires": 1814965292,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KWIKSESSIONTOKEN",
+      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..Glqh2QzVPBUyCO4T.zRXL2CLB69VRn72fIHaUI09UDLl0CjjRYqqJuZ2m6jUFYLAf1QgdTdd2GSzDxE4XpWgLvsWOTd0fbASy1P_EfUVXl9DmR2NzVZwCKjonnLn5pHTKiBwpWwdRYdufDAEykMs.RMDcoFwtNdKZUNvvRpDg9A",
+      "domain": ".pdp.gokwik.co",
+      "path": "/",
+      "expires": 1814965292,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KWIKUSERTOKEN",
+      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..siji95D35vl8uHIF.DmJSIAxjN1L_r9BI3JE8h8h9KgSjwHIHdzdrrKnwbgZ6w1HxQf-Ztx8L-pLltqROPZDgO5S3_Ighp-Gez5YHdn0nBGyVgdaYyPAhykJVln0JgbX2CO2G1UFVlxa1wNEP6IsDM8QgyNRtZ6usy3B0yrf-WHN4punocZdfzEoxHO04IpUL4CAD5ptjoAE9FJkiDngNCLV4y5yCPfQFaFGzN2zdd1HzNIZL0klRtwNILilWMPa545KNkQ6bjKkOMjtZ8XZfv6rPC7MlOe3Bb764Wz9dUxvYW1-D.7326_1JP14wr99V7P57hcg",
+      "domain": ".pdp.gokwik.co",
+      "path": "/",
+      "expires": 1814965292,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "accessToken",
+      "value": "Bearer eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..HoYu9a-JWt6gpR47PO8qjw.gCXraDol0oUh1yMBP6tahQtN3imC7OzfythrxFbYv869gndc6EDeNYAuQuYQ8gOtxx5uSzWxhbxiPpRZhnF3VA.w9Os2em7_zmL5XnXMJSSUw",
+      "domain": "mamaearth.in",
+      "path": "/",
+      "expires": 1814965292.538812,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_NEB3G7SX9B",
+      "value": "GS2.1.s1783429264$o1$g1$t1783429293$j31$l0$h0",
+      "domain": ".mamaearth.in",
+      "path": "/",
+      "expires": 1817989293.138205,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://mamaearth.in",
+      "localStorage": [
+        {
+          "name": "repeatUserDetails",
+          "value": "undefined"
+        },
+        {
+          "name": "kp_user_id",
+          "value": "019f3cab-0365-746b-9f32-a309c9655496"
+        },
+        {
+          "name": "atgLastSession",
+          "value": "1783429263908"
+        },
+        {
+          "name": "__tr_db",
+          "value": "ck"
+        },
+        {
+          "name": "ELRTOKEN",
+          "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..nttFis3N8AJG3z7P.Kb06Oelqw9_rh3gR9vLFuLJkbVljiVKzFwksdHAmBY00rc3p8eFL_3LnhKZcmD67MJUtfuowZNYRiFOrMoHIqK1mHCxlZ9ZQpK3uHyofJ8i39qgLR1iTdLtQtBT_WaEdw4PFEP_ZPzkO3slqKGQ-g4bLxTLpOYnTt1DpCJLOyXOe1lyPPrvzZ09MAgzuwE3dLPzMtWdIpeujVIryO049FGy4YarB33otYtK-cVaDpmx3vtHn4KL141rccY_gZBF7vw97pOm54og9KuFSx8zms30PcJC6Sb7OTw.FFSjQqPFHvLpYOA8gobkJQ"
+        },
+        {
+          "name": "gk_login_source",
+          "value": "kwik_pass"
+        },
+        {
+          "name": "kpAuth",
+          "value": "{\"token\":\"eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..siji95D35vl8uHIF.DmJSIAxjN1L_r9BI3JE8h8h9KgSjwHIHdzdrrKnwbgZ6w1HxQf-Ztx8L-pLltqROPZDgO5S3_Ighp-Gez5YHdn0nBGyVgdaYyPAhykJVln0JgbX2CO2G1UFVlxa1wNEP6IsDM8QgyNRtZ6usy3B0yrf-WHN4punocZdfzEoxHO04IpUL4CAD5ptjoAE9FJkiDngNCLV4y5yCPfQFaFGzN2zdd1HzNIZL0klRtwNILilWMPa545KNkQ6bjKkOMjtZ8XZfv6rPC7MlOe3Bb764Wz9dUxvYW1-D.7326_1JP14wr99V7P57hcg\",\"coreToken\":\"eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..Glqh2QzVPBUyCO4T.zRXL2CLB69VRn72fIHaUI09UDLl0CjjRYqqJuZ2m6jUFYLAf1QgdTdd2GSzDxE4XpWgLvsWOTd0fbASy1P_EfUVXl9DmR2NzVZwCKjonnLn5pHTKiBwpWwdRYdufDAEykMs.RMDcoFwtNdKZUNvvRpDg9A\",\"uniToken\":\"eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..nttFis3N8AJG3z7P.Kb06Oelqw9_rh3gR9vLFuLJkbVljiVKzFwksdHAmBY00rc3p8eFL_3LnhKZcmD67MJUtfuowZNYRiFOrMoHIqK1mHCxlZ9ZQpK3uHyofJ8i39qgLR1iTdLtQtBT_WaEdw4PFEP_ZPzkO3slqKGQ-g4bLxTLpOYnTt1DpCJLOyXOe1lyPPrvzZ09MAgzuwE3dLPzMtWdIpeujVIryO049FGy4YarB33otYtK-cVaDpmx3vtHn4KL141rccY_gZBF7vw97pOm54og9KuFSx8zms30PcJC6Sb7OTw.FFSjQqPFHvLpYOA8gobkJQ\",\"kpToken\":\"eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..HoYu9a-JWt6gpR47PO8qjw.gCXraDol0oUh1yMBP6tahQtN3imC7OzfythrxFbYv869gndc6EDeNYAuQuYQ8gOtxx5uSzWxhbxiPpRZhnF3VA.w9Os2em7_zmL5XnXMJSSUw\"}"
+        },
+        {
+          "name": "pwaState",
+          "value": "{\"account\":{\"data\":{\"userInfo\":{\"id\":15229323,\"group_id\":1,\"created_at\":\"2026-07-07 12:46:17\",\"updated_at\":\"2026-07-07 13:01:33\",\"created_in\":\"Default Store View\",\"dob\":\"0000-00-00\",\"email\":\"meghananavhate@gmail.com\",\"firstname\":\"meghna\",\"lastname\":\"navhate\",\"gender\":0,\"store_id\":1,\"website_id\":1,\"addresses\":[],\"disable_auto_group_change\":0,\"extension_attributes\":{\"is_subscribed\":false},\"custom_attributes\":[{\"attribute_code\":\"mobile_number\",\"value\":\"8788815334\"}]}}},\"auth\":{\"loading\":false,\"error\":false,\"loginPopUp\":false,\"signUp\":false,\"newUser\":false,\"redirectUrl\":false,\"mappedContact\":\"\",\"otpLocked\":false,\"data\":{\"user\":{\"id\":15229323,\"email\":\"meghananavhate@gmail.com\",\"createdAt\":\"2026-07-07T12:46:17.000Z\",\"firstName\":\"meghna\",\"lastName\":\"navhate\",\"phone\":\"8788815334\",\"mobile\":\"8788815334\",\"gender\":0,\"dob\":\"0000-00-00\",\"customer_id\":15229323,\"mageId\":15229323,\"customerGroupId\":1,\"customerGroupCode\":\"General\"},\"token\":{\"tokenType\":\"Bearer\",\"accessToken\":\"eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..HoYu9a-JWt6gpR47PO8qjw.gCXraDol0oUh1yMBP6tahQtN3imC7OzfythrxFbYv869gndc6EDeNYAuQuYQ8gOtxx5uSzWxhbxiPpRZhnF3VA.w9Os2em7_zmL5XnXMJSSUw\"},\"otp\":{\"contact\":false,\"email\":false,\"sessionId\":false}},\"meta\":{\"isTokenRefreshing\":false},\"popUpData\":false,\"userType\":null,\"referredUserDetails\":false,\"referralSuccess\":false,\"hashedCustomerId\":false,\"verificationSuccess\":false,\"newUserPopUp\":false,\"giftCardLoginPopup\":false,\"sourceOfLoginPopup\":false},\"cart\":{\"loading\":false,\"quantityLoading\":false,\"error\":false,\"gIaddToCart\":false,\"data\":{\"cartId\":283338125,\"isDisable\":false,\"ids\":[],\"cartMap\":{},\"recentRemovals\":[],\"appliedRules\":[],\"inertProducts\":[],\"userCouponCode\":false,\"newUserCouponCode\":null,\"newUserCouponTitle\":null,\"newUserCouponDescription\":null,\"isGiCoupon\":false,\"showCartPopUp\":false,\"isCartPopUpClosed\":false},\"open\":false,\"couponTray\":false,\"cartError\":false},\"checkout\":{\"walletChecked\":false,\"otpLoading\":false,\"loading\":false,\"thankyouPageLoading\":false,\"placeOrderLoading\":false,\"paymentFailed\":false,\"paymentError\":\"\",\"error\":false,\"jusPayLoad\":false,\"addressError\":false,\"localStorageAddressData\":false,\"jusPayRequestId\":false,\"isJuspay\":false,\"isValid\":false,\"payment_initiate\":false,\"couponWithTimer\":false,\"qrCode\":\"\",\"upiPaymentDetails\":false,\"data\":{\"isCODAvailable\":true,\"shipping\":false,\"totals\":false,\"order\":false,\"confirmedOrder\":false,\"customerDetail\":false,\"paymentEntity\":false,\"paymentMethods\":false,\"old_productId\":[],\"couponError\":false,\"otp\":{\"contact\":false,\"sessionId\":false},\"showqrcode\":false,\"showexpirycode\":false},\"meta\":{\"trackingData\":false,\"order\":{\"comment\":\"\",\"payMethod\":\"\",\"methodFields\":{},\"billingAddress\":false,\"shippingAddress\":false,\"selectedPaymentMethod\":\"razorpay\",\"availablePaymentMethods\":[\"razorpay\",\"paypal\",\"cod\"]}},\"newuser\":null,\"couponType\":\"\",\"showRetryPaymentOnce\":true,\"benefitsData\":false,\"isNewUserCouponCodeTriggered\":false,\"giftCardApplied\":false,\"gyfterDetails\":false,\"gyftrOtp\":false,\"validateCoupon\":null,\"fraudNumber\":false,\"razorpayDowntimeMessage\":false,\"couponJourneyData\":false,\"couponMessage\":false,\"repeatUser\":0,\"cartOfferSet\":{},\"selectedAddress\":false,\"cartUpdate\":false,\"currentStep\":0,\"rpStandardClose\":false,\"deliveryDate\":null,\"showGokwikCheckout\":false,\"isGokwikCheckoutFailure\":false,\"shiprocketAddressFlow\":{\"isLoggedIn\":false,\"authToken\":false,\"addresses\":[],\"selectedAddressId\":null,\"flowFailure\":false}}}"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"9xg3WFiMylJ_N0d4fc-dapyIY3sbsOPCkQ\",\"lastJoinedTimeMs\":1783429263866},\"expires\":1783429563866},\"gcl_ctr\":{\"value\":{\"value\":3,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1783429265064},\"expires\":1791205265064}}"
+        },
+        {
+          "name": "customer_id",
+          "value": "15229323"
+        },
+        {
+          "name": "KWIKSESSIONTOKEN",
+          "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..Glqh2QzVPBUyCO4T.zRXL2CLB69VRn72fIHaUI09UDLl0CjjRYqqJuZ2m6jUFYLAf1QgdTdd2GSzDxE4XpWgLvsWOTd0fbASy1P_EfUVXl9DmR2NzVZwCKjonnLn5pHTKiBwpWwdRYdufDAEykMs.RMDcoFwtNdKZUNvvRpDg9A"
+        },
+        {
+          "name": "snowplowOutQueue_snowplow_gkwkkp_post2.expires",
+          "value": "1846501292080"
+        },
+        {
+          "name": "snowplowOutQueue_snowplow_gkwkkp_post2",
+          "value": "[]"
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1783429264563"
+        },
+        {
+          "name": "kp-request-id",
+          "value": "940fd034-1653-435d-ae94-d44436af4fc1"
+        },
+        {
+          "name": "customerData",
+          "value": "{\"phone\":\"8788815334\",\"email\":\"meghananavhate@gmail.com\"}"
+        },
+        {
+          "name": "__tr_luptv",
+          "value": "1783429265112"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "gk-request-id",
+          "value": "6b7b845d-9b89-40a4-be39-ebb64b46b2cd"
+        },
+        {
+          "name": "KWIKUSERTOKEN",
+          "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..siji95D35vl8uHIF.DmJSIAxjN1L_r9BI3JE8h8h9KgSjwHIHdzdrrKnwbgZ6w1HxQf-Ztx8L-pLltqROPZDgO5S3_Ighp-Gez5YHdn0nBGyVgdaYyPAhykJVln0JgbX2CO2G1UFVlxa1wNEP6IsDM8QgyNRtZ6usy3B0yrf-WHN4punocZdfzEoxHO04IpUL4CAD5ptjoAE9FJkiDngNCLV4y5yCPfQFaFGzN2zdd1HzNIZL0klRtwNILilWMPa545KNkQ6bjKkOMjtZ8XZfv6rPC7MlOe3Bb764Wz9dUxvYW1-D.7326_1JP14wr99V7P57hcg"
+        },
+        {
+          "name": "notifyph",
+          "value": "KzkxfDg3ODg4MTUzMzQ="
+        },
+        {
+          "name": "MOE_DATA",
+          "value": "{\"INIT_DATA\":{\"debugLevel\":0,\"sdkEnvironment\":\"LIVE\",\"logLevel\":0,\"cluster\":null,\"environment\":null,\"baseDomainName\":\"https://sdk-01.moengage.com/\",\"inapp\":null,\"customSoftAsk\":{\"mainClass\":null,\"allowClass\":null,\"dismissClass\":null},\"nativeMethodsUsed\":false,\"appId\":\"V6PYOQ84KPHYZ17AB2BU3HFI\",\"forceSwUpdate\":null,\"swPath\":\"/service-worker.js\",\"integrationType\":\"CDN\"},\"WEB_SETTINGS\":{\"isDomainLevelStorage\":false,\"configs\":{\"isBeaconDisabled\":false,\"isCardsModuleEnabled\":true,\"isWebPersonalizationModuleEnabled\":true,\"isCacheEnabledForWebPSelfHandle\":true,\"eventBatchCount\":15,\"logLevel\":null,\"periodicFlushTime\":30,\"isBatchingEnabled\":true,\"sessionInactiveDuration\":1800,\"isRemoteLoggingEnabled\":true,\"sourceExtraParams\":[],\"whitelistedEvents\":[\"MOE_PUSH_PERMISSION_STATE_ALLOWED\",\"MOE_PUSH_PERMISSION_STATE_BLOCKED\"],\"blacklistedEvents\":[\"ADD_TO_CART\",\"searchStarted\",\"checkout\",\"removedFromCart\",\"paymentInitiated\",\"couponCodeRemoved\",\"couponCodeApplied\",\"bannerClicked\",\"orderCancel\",\"VipCouponcodeApplied\",\"vipBannerClick\",\"paymentPlanSelected\",\"VipPaymentInitiated\",\"vipAvailBenefit\",\"vipCharged\",\"removeCoupon\",\"COUPON\",\"TEST - Purchase\",\"MOE_LOING\",\"NPS_WB_NotFilled\",\"FraudMessage\",\"NPS_WB_Pop Up_Open\",\"NPS_DE_Pop Up_Open\",\"NPS_DE_NotFilled\",\"view_personalisation_widget\",\"ATC_PDP_RESTOCK\",\"nextDayDelivery\",\"VISIT_PDP_RESTOCK_PLP\",\"startAssessment\",\"concernSelected\",\"skinTypeSelected\",\"skinTextureSelected\",\"concernTypeSelected\",\"productUnselected\",\"productSelected\",\"assessmentRetake\",\"regimeGenerated\",\"regimeAdded\",\"userDetailsSat\",\"formFilledAR\",\"startAR\",\"cameraOpened\",\"photoSaved\",\"hybridSkinTypeSelected\",\"hybridConcernTypeSelected\",\"hybridSkinTextureSelected\",\"hybridConcernSelected\",\"hybridInformationFilledQsat\",\"hybridNameFill\",\"skipSelfie\",\"hybridQsatCompleted\",\"arStarted\",\"hybridCameraOpened\",\"hybridInformationFilledAR\",\"assessmentCompletedAR\",\"chooseRegime\",\"hybridARCompleted\",\"hybridARRetake\",\"plpSkinTextureSelected\",\"plpSkinTypeSelected\",\"nextdayvisible\",\"ndd_check\",\"closePincodeDelivery\",\"OneDayDeliveryOptionVisible\",\"orderTracking\",\"paymentRetry\",\"undefined_Pincodepopup_Toggle\",\"ContextualStripVisible_moengage\",\"StripMessageChanged\",\"Add_pincode_clicked\",\"Add_Pincodepopup_check\",\"Add_Pincodepopup_Toggle\",\"Add_pincodepopup_close\",\"Change_pincode_clicked\",\"Change_Pincodepopup_check\",\"Change_pincodepopup_close\",\"pdp_Pincodepopup_check\",\"pdp_Pincodepopup_Toggle\",\"checkout_Pincodepopup_Toggle\",\"plp_Pincodepopup_check\",\"Change_Pincodepopup_Toggle\",\"pdp_pincodepopup_close\",\"plp_pincodepopup_close\",\"home_Pincodepopup_check\",\"home_pincodepopup_close\",\"plp_Pincodepopup_Toggle\",\"home_Pincodepopup_Toggle\",\"Add_Pincodepopup_filled\",\"Change_Pincodepopup_filled\",\"view_otp_screen\",\"retryPaymentPopup\",\"retryPaymentInitiated\",\"dummy1\",\"dummy0\",\"dummy2\",\"dummy3\",\"dummy4\",\"dummy5\",\"dummy6\",\"dummy7\",\"dummy8\",\"dummy9\",\"dummy10\",\"dummy11\",\"dummy12\",\"dummy13\",\"dummy14\",\"dummy15\",\"dummy16\",\"dummy17\",\"dummy18\",\"dummy19\",\"closeRetryPopup\",\"whatsAppOptIn\",\"whatsAppOptInSelect\",\"aanalytics_wallet_details_egyftr\",\"analytics_apply_gift_card_egyftr\",\"analytics_egyftr_gift_card_applied\",\"analytics_select_gift_card\",\"eligibility_api\",\"zestmoney_visible\",\"rateProduct\",\"try_on_remove\",\"gpay_payment\",\"pdp_youtube_play\",\"pdp_youtube_pause\",\"pdp_video_visible\",\"checkout_login_popup_view\",\"cart_login_popup_mobile_fill\",\"cart_login_popup_verify\",\"cart_login_popup_verify_otp\",\"cart_login_popup_view\",\"checkout_login_mobile_fill\",\"checkout_login_popup_verify\",\"checkout_login_popup_mobile_edit\",\"cart_login_popup_close\",\"cart_popup_verify_otp_login\",\"cart_login_popup_mobile_edit\",\"address_new_address_click\",\"address_switch_toggle\",\"checkout_login_popup_verify_otp\",\"cart_login_popup_verify_otp_login\",\"cart_login_popup_verify_otp_guest\",\"cartEdit\",\"checkout_login_popup_verify_otp_login\",\"checkout_login_popup_verify_otp_guest\",\"cart_login_popup_verify_otp_signup\",\"checkout_login_popup_verify_otp_signup\",\"popupOpened\",\"pdp_image_clicked\",\"pdp_image_right_click\",\"Added To Cart\",\"analytics_upi_payment_page_visible\",\"analytics_payment_page_visible\",\"app_not_found\",\"analytics_app_icon_click\",\"analytics_back_upi_page\",\"analytics_e-gyftr_verify_otp_screen\",\"analytics_close_otp_gytr\",\"analytics_e_gyftr_verify_OTP\"],\"blacklistedPortfolioUserAttributes\":[],\"isAppActive\":true,\"remoteLogTracking\":false,\"subscriberBasedBillingAttributes\":[],\"isMultiIdEnabled\":false,\"userAttributeCacheTime\":43200,\"portfolioUserAttributeCacheTime\":43200,\"identityAttributes\":[\"uid\"],\"landingPageTracking\":false},\"settingsVersion\":\"V2\",\"toShowOverlay\":false,\"loadTime\":0,\"promptAgain\":24,\"optInType\":\"self-handled\",\"isWebPushEnabled\":true,\"optInPreview\":{\"mobile\":{\"nudge\":{\"title\":{\"textColor\":\"#FFFFFF\",\"text\":\"This website would like to send you awesome updates and offers!\"},\"backgroundColor\":\"#000000\",\"icon\":\"https://www.moengage.com/wp-content/uploads/2019/07/moengage-logo.png\",\"altText\":\"\"},\"allowButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Allow\",\"backgroundColor\":\"#000000\"},\"dismissButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Don't Allow\",\"backgroundColor\":\"#000000\"},\"logo\":{\"logoUrl\":\"https://app-cdn.moengage.com/images/brand/logo_full_white.png\",\"logoColor\":\"#FFFFFF\",\"altText\":\"Powered By MoEngage\"}},\"web\":{\"banner\":{\"title\":{\"textColor\":\"#FFFFFF\",\"text\":\"This website would like to send you awesome updates and offers!\"},\"body\":{\"textColor\":\"#FFFFFF\",\"text\":\"Notifications can be turned off anytime from browser settings\"},\"backgroundColor\":\"#000000\",\"icon\":\"https://www.moengage.com/wp-content/uploads/2019/07/moengage-logo.png\",\"altText\":\"\"},\"allowButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Allow\",\"backgroundColor\":\"#000000\"},\"dismissButton\":{\"textColor\":\"#FFFFFF\",\"text\":\"Don't Allow\",\"backgroundColor\":\"#000000\"},\"logo\":{\"logoUrl\":\"https://app-cdn.moengage.com/images/brand/logo_full_white.png\",\"logoColor\":\"#FFFFFF\",\"altText\":\"Powered By MoEngage\"}}},\"overlay\":{\"opera\":{\"mobile\":{\"title\":\"Opera Mobile Preview\",\"text\":\"Tap on Allow button to receive notifications\"},\"desktop\":{\"title\":\"Opera Desktop Preview\",\"text\":\"Click on Allow button to receive notifications\"}},\"chrome\":{\"mobile\":{\"title\":\"Chrome Mobile Preview\",\"text\":\"Tap on Allow button to receive notifications\"},\"desktop\":{\"title\":\"Chrome Desktop Preview\",\"text\":\"Click on Allow button to receive notifications\"}},\"firefox\":{\"mobile\":{\"title\":\"Firefox Mobile Preview\",\"text\":\"Tap on Always button to receive Notifications\"},\"desktop\":{\"title\":\"Firefox Desktop Preview\",\"text\":\"Click on Allow button to receive Notifications\"}}},\"webPushPlatformData\":{\"chrome\":{\"subscriptionMode\":\"vapid\",\"vapidPublicKey\":\"BEaAbeqJwFnZ31ZyfIWmafvH26OGkJrM1XX7AKupAcLdHm3fvWPnbS7V8DRllBQGAoaZOslyjMAuh-ExZ0aaTEA\"},\"firefox\":{\"subscriptionMode\":\"vapid\",\"vapidPublicKey\":\"BEaAbeqJwFnZ31ZyfIWmafvH26OGkJrM1XX7AKupAcLdHm3fvWPnbS7V8DRllBQGAoaZOslyjMAuh-ExZ0aaTEA\"}},\"isPushSubBilling\":false,\"isBrandingHidden\":false},\"SDK_VERSION\":\"2.77.03\",\"DEVICE_DATA\":{\"deviceUniqueId\":\"3acda563-c598-4b0b-a86d-8629e8098ee7\"},\"USER_DATA\":{\"attributes\":[{\"key\":\"USER_ATTRIBUTE_UNIQUE_ID\",\"value\":\"+918788815334\",\"updated_at\":1783429292723},{\"key\":\"USER_ATTRIBUTE_USER_FIRST_NAME\",\"value\":\"meghna\",\"updated_at\":1783429292745},{\"key\":\"USER_ATTRIBUTE_USER_LAST_NAME\",\"value\":\"navhate\",\"updated_at\":1783429292751},{\"key\":\"USER_ATTRIBUTE_USER_EMAIL\",\"value\":\"meghananavhate@gmail.com\",\"updated_at\":1783429292755},{\"key\":\"USER_ATTRIBUTE_USER_MOBILE\",\"value\":\"8788815334\",\"updated_at\":1783429292758},{\"key\":\"USER_ATTRIBUTE_USER_NAME\",\"value\":\"meghna navhate\",\"updated_at\":1783429292761},{\"key\":\"userType\",\"value\":\"newUser\",\"updated_at\":1783429292764},{\"key\":\"lastWalletBalance\",\"value\":0,\"updated_at\":1783429293140}],\"subscribedToOldSdk\":false,\"deviceUuid\":\"e7884f38-0dcf-4450-8a63-2a9d9e0bc71b\",\"deviceAdded\":true},\"SESSION\":{\"sessionKey\":\"ec4c7845-9890-4f1b-a7a5-d6ad92420a94\",\"sessionStartTime\":\"2026-07-07T13:01:07.364Z\",\"sessionMaxTime\":1800,\"customIdentifiersToTrack\":[],\"sessionExpiryTime\":1783431093147,\"numberOfSessions\":1},\"OPTED_STATUS_TRACK_TIME\":1783429267531,\"IDENTITY_MAP\":{\"userIdentities\":{\"uid\":\"+918788815334\"},\"previousIdentities\":{},\"previousIdentitiesUpdatedTime\":0}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://pdp.gokwik.co",
+      "localStorage": [
+        {
+          "name": "kp_user_id",
+          "value": "019f3cab-0365-746b-9f32-a309c9655496"
+        },
+        {
+          "name": "ELRTOKEN",
+          "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..nttFis3N8AJG3z7P.Kb06Oelqw9_rh3gR9vLFuLJkbVljiVKzFwksdHAmBY00rc3p8eFL_3LnhKZcmD67MJUtfuowZNYRiFOrMoHIqK1mHCxlZ9ZQpK3uHyofJ8i39qgLR1iTdLtQtBT_WaEdw4PFEP_ZPzkO3slqKGQ-g4bLxTLpOYnTt1DpCJLOyXOe1lyPPrvzZ09MAgzuwE3dLPzMtWdIpeujVIryO049FGy4YarB33otYtK-cVaDpmx3vtHn4KL141rccY_gZBF7vw97pOm54og9KuFSx8zms30PcJC6Sb7OTw.FFSjQqPFHvLpYOA8gobkJQ"
+        },
+        {
+          "name": "KWIKUSERTOKEN",
+          "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..siji95D35vl8uHIF.DmJSIAxjN1L_r9BI3JE8h8h9KgSjwHIHdzdrrKnwbgZ6w1HxQf-Ztx8L-pLltqROPZDgO5S3_Ighp-Gez5YHdn0nBGyVgdaYyPAhykJVln0JgbX2CO2G1UFVlxa1wNEP6IsDM8QgyNRtZ6usy3B0yrf-WHN4punocZdfzEoxHO04IpUL4CAD5ptjoAE9FJkiDngNCLV4y5yCPfQFaFGzN2zdd1HzNIZL0klRtwNILilWMPa545KNkQ6bjKkOMjtZ8XZfv6rPC7MlOe3Bb764Wz9dUxvYW1-D.7326_1JP14wr99V7P57hcg"
+        },
+        {
+          "name": "kp-request-id",
+          "value": "940fd034-1653-435d-ae94-d44436af4fc1"
+        },
+        {
+          "name": "usr_trck",
+          "value": "[{\"id\":\"019f3cab-0365-746b-9f32-a309c9655496\",\"updatedAt\":1783429268327,\"kp_count\":1}]"
+        },
+        {
+          "name": "KWIKSESSIONTOKEN",
+          "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..Glqh2QzVPBUyCO4T.zRXL2CLB69VRn72fIHaUI09UDLl0CjjRYqqJuZ2m6jUFYLAf1QgdTdd2GSzDxE4XpWgLvsWOTd0fbASy1P_EfUVXl9DmR2NzVZwCKjonnLn5pHTKiBwpWwdRYdufDAEykMs.RMDcoFwtNdKZUNvvRpDg9A"
+        }
+      ]
+    }
+  ]
+}

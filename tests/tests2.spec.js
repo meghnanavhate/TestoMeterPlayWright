@@ -32,11 +32,11 @@ test("My testcase", async({page})=>{
 test("Valid Credintials login user", async({page})=>{
     let loginPageObject = new LoginPage(page);
     //await page.goto("https://www.saucedemo.com",{timeout:60000});
-    expect(await loginPageObject.Username).toBeVisible();
+await expect(loginPageObject.username).toBeVisible();
     await loginPageObject.username.fill("standard_user");
-   expect(await loginPageObject.password).toBeVisible();
+await expect(loginPageObject.password).toBeVisible();
     await loginPageObject.password.fill("secret_sauce");
-    expect(await loginPageObject.loginButton).toBeVisible();
+await expect(loginPageObject.loginButton).toBeVisible();
 await loginPageObject.loginButton.click();
 
     //(3 ways to select dropdown)

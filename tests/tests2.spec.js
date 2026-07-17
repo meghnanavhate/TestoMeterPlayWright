@@ -1,10 +1,12 @@
 import test,{ expect } from "@playwright/test";
+import { LoginPage } from "../pages/loginpage";
 
 test.beforeEach(async ({ page }) => {
     await page.goto("https://www.saucedemo.com", { timeout: 60000 });
 });
 
 test("My testcase", async({page})=>{
+    let loginPageObject = new LoginPage(page);
     //goto=open the page
     //playwright - element locator -30sec
     //playwright - assertion - 5 sec
@@ -12,9 +14,9 @@ test("My testcase", async({page})=>{
     //locator= xpath and css selector
 
     //await page.goto("https://www.saucedemo.com",{timeout:60000});
-   //await page.getByPlaceholder("Username").fill("dhein");
-    await page.getByPlaceholder("Password").fill("dhoe");
-    await page.locator("[value='Login']").click();
+   await loginPageObject.username.fill("dhein");
+    await loginPageObject.password.fill("dhoe");
+    await loginPageObject.("[value='Login']");
     const errorMsg = await page.locator("[data-test='error']").textContent();
     //Assertion - validation
     //expect(errorMsg).toBe("Epic sadface: Username and password do not match any user in this service");
@@ -27,14 +29,15 @@ test("My testcase", async({page})=>{
 
 
 
-test.only("Valid Credintials login user", async({page})=>{
+test("Valid Credintials login user", async({page})=>{
+    let loginPageObject = new LoginPage(page);
     //await page.goto("https://www.saucedemo.com",{timeout:60000});
-    expect(await page.getByPlaceholder("Username")).toBeVisible();
-    await page.getByPlaceholder("Username").fill("standard_user");
-    expect(await page.getByPlaceholder("Password")).toBeVisible();
-    await page.getByPlaceholder("Password").fill("secret_sauce");
-    expect(await page.locator("[value='Login']")).toBeVisible();
-    await page.locator("[value='Login']").click();
+    expect(await loginPageObject.Username).toBeVisible();
+    await loginPageObject.username.fill("standard_user");
+   expect(await loginPageObject.password).toBeVisible();
+    await loginPageObject.password.fill("secret_sauce");
+    expect(await loginPageObject.loginButton).toBeVisible();
+await loginPageObject.loginButton.click();
 
     //(3 ways to select dropdown)
     //await page.locator("[data-test='product-sort-container']").selectOption({label: "Name (Z to A)"});

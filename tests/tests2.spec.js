@@ -16,7 +16,7 @@ test("My testcase", async({page})=>{
     //await page.goto("https://www.saucedemo.com",{timeout:60000});
    await loginPageObject.username.fill("dhein");
     await loginPageObject.password.fill("dhoe");
-    await loginPageObject.("[value='Login']");
+    await loginPageObject.loginButton.click();
     const errorMsg = await page.locator("[data-test='error']").textContent();
     //Assertion - validation
     //expect(errorMsg).toBe("Epic sadface: Username and password do not match any user in this service");

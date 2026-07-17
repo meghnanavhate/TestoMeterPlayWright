@@ -1,5 +1,6 @@
 import test,{ expect } from "@playwright/test";
 import { LoginPage } from "../pages/loginpage";
+import { ProductPage } from "../pages/productpage";
 
 test.beforeEach(async ({ page }) => {
     await page.goto("https://www.saucedemo.com", { timeout: 60000 });
@@ -17,10 +18,11 @@ test("My testcase", async({page})=>{
    await loginPageObject.username.fill("dhein");
     await loginPageObject.password.fill("dhoe");
     await loginPageObject.loginButton.click();
-    const errorMsg = await page.locator("[data-test='error']").textContent();
+    //const errorMsg = await page.locator("[data-test='error']").textContent();
     //Assertion - validation
     //expect(errorMsg).toBe("Epic sadface: Username and password do not match any user in this service");
-    expect.soft(await page.locator("[data-test='error']")).toHaveText("Epic sadface: Username and password do not match any user in this service");
+    await expect(loginPageObject.errorMessage)
+   .toHaveText("Epic sadface: Username and password do not match any user in this service");
 
     //Hard Assertion - next step will not executed
     //Soft Assertion - next step will execute
@@ -46,12 +48,17 @@ await loginPageObject.loginButton.click();
     //await page.locator("[data-test='product-sort-container']").selectOption({index: 2});
     //await page.waitForTimeout(5000);
 
-    await page.locator("[data-test='product-sort-container']").selectOption({value: "az"});
+        let productPageObject = new ProductPage(page);
 
-    await page.locator("[data-test='inventory-item']").filter({hasText:"Sauce Labs Backpack"})
-    .getByText("Add to cart").click();
+    //await page.locator("[data-test='product-sort-container']").selectOption({value: "az"});
+      await productPageObject.productSort.selectOption({value:"az"});
+      await productPageObject.backpackAddButton.click()
+    await productPageObject.fleeceJacketAddButton.click()
 
-    await page.locator("[data-test='inventory-item']").filter({hasText:"Sauce Labs Fleece Jacket"})
-    .getByText("Add to cart").click();
+    //await page.locator("[data-test='inventory-item']").filter({hasText:"Sauce Labs Backpack"})
+    //.getByText("Add to cart").click();
+
+    //await page.locator("[data-test='inventory-item']").filter({hasText:"Sauce Labs Fleece Jacket"})
+    //.getByText("Add to cart").click();
     await page.waitForTimeout(15000);
 });

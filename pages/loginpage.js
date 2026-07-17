@@ -6,6 +6,8 @@ export class LoginPage{
         this.username = page.getByPlaceholder("Username");
         this.password = page.getByPlaceholder("Password");
         this.loginButton = page.locator("[value='Login']");
+        this.errorMessage = page.locator("[data-test='error']");
+
     }
     async enterUserName(username){
         expect(await this.loginPageObject.Username).toBeVisible();
